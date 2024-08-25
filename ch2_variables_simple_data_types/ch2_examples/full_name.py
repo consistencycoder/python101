@@ -9,3 +9,10 @@ first_name = "ada"
 last_name = "lovelace"
 full_name = f"{first_name} {last_name}"
 print(full_name)
+
+# p.21 example 2: f-string with a method
+# example 1 output: Hello, Ada Lovelace
+first_name = "ada"
+last_name = "lovelace"
+full_name = f"{first_name} {last_name}"
+print(f"Hello, {full_name.title()}!")
