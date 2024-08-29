@@ -2,6 +2,10 @@
 # topics that interest you. As you become familiar with Python, different parts of 
 # the site will be more useful to you.
 
+# 1-1 ANS:
+# https://pyflo.net/ is a beginner's guide to becoming a Python programmer.
+# https://www.hackinscience.org/ is an interactive Python practice site.
+
 # 1-2. Hello World Typos: Open the hello_world.py file you just created. Make a 
 # typo somewhere in the line and run the program again. Can you make a typo 
 # that generates an error? Can you make sense of the error message? Can you 
